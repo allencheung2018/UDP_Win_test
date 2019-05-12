@@ -1,0 +1,114 @@
+﻿Build started 2015/12/8 星期二 下午 5:05:18.
+     1>Project "D:\YNZZ_Info\PlayVideo\Code\UDP_Win_test\UDP_Win_test\UDP_Win_test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\UDP_Win_test.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm- /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\UDP_Win_test.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt UDP_Win_test.cpp /clr:nostdlib 
+         UDP_Win_test.cpp
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\NoticePanelform.h(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(198): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(199): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(293): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(186): warning C4101: 'max_pnum' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(185): warning C4101: 'actDataLen' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(392): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(399): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(404): warning C4244: 'initializing' : conversion from 'std::streamsize' to 'int', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(417): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(418): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(419): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(564): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(570): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(381): warning C4101: 'max_pnum' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(380): warning C4101: 'actDataLen' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(381): warning C4101: 'a_rmd' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(381): warning C4101: 'a_pnum' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(381): warning C4101: 'v_pnum' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(380): warning C4101: 'pktLen' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(381): warning C4101: 'v_rmd' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(919): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1476): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1482): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1590): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1596): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1639): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1645): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(1681): warning C4101: 'temp' : unreferenced local variable
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2276): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2397): warning C4244: 'argument' : conversion from 'int64_t' to 'Uint32', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2538): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2539): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2552): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2563): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2580): warning C4102: 'start' : unreferenced label
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2752): warning C4309: '=' : truncation of constant value
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2753): warning C4309: '=' : truncation of constant value
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\Form1.h(2754): warning C4309: '=' : truncation of constant value
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\form1.h(1793): warning C4700: uninitialized local variable 'hThread' used
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\form1.h(2440): warning C4715: 'ThreadPrewVideo1' : not all control paths return a value
+     1>d:\ynzz_info\playvideo\code\udp_win_test\udp_win_test\form1.h(2127): warning C4700: uninitialized local variable 'hThread' used
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\YNZZ_Info\PlayVideo\Code\UDP_Win_test\Debug\UDP_Win_test.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib avcodec.lib avutil.lib avdevice.lib avformat.lib avfilter.lib swscale.lib swresample.lib DS40xxSDK.lib HCNetSDK.lib client.lib Sadp.lib PlayCtrl.lib SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\UDP_Win_test.Form1.resources /ASSEMBLYRESOURCE:Debug\UDP_Win_test.NoticePanelform.resources /MANIFEST /ManifestFile:"Debug\UDP_Win_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\YNZZ_Info\PlayVideo\Code\UDP_Win_test\Debug\UDP_Win_test.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\ACCEncoder.obj
+         Debug\AssemblyInfo.obj
+         Debug\Class_HKcard_4008.obj
+         Debug\Form1_act.obj
+         Debug\H264DecodeYUV.obj
+         Debug\Mp3Decoder.obj
+         Debug\MulticastUDP.obj
+         Debug\NoticePanelform.obj
+         Debug\Osdchar.obj
+         Debug\PlayVideoDataProtocol.obj
+         Debug\stdafx.obj
+         Debug\UDPWin.obj
+         Debug\UDP_Win_test.obj
+         Debug\YUVEncoder.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>YUVEncoder.obj : warning LNK4248: unresolved typeref token (01000012) for 'AVDictionary'; image may not run
+     1>UDP_Win_test.obj : warning LNK4248: unresolved typeref token (01000041) for 'AVDictionary'; image may not run
+     1>Mp3Decoder.obj : warning LNK4248: unresolved typeref token (01000013) for 'AVDictionary'; image may not run
+     1>H264DecodeYUV.obj : warning LNK4248: unresolved typeref token (01000014) for 'AVDictionary'; image may not run
+     1>ACCEncoder.obj : warning LNK4248: unresolved typeref token (01000012) for 'AVDictionary'; image may not run
+     1>H264DecodeYUV.obj : warning LNK4248: unresolved typeref token (01000012) for 'SwsContext'; image may not run
+     1>Mp3Decoder.obj : warning LNK4248: unresolved typeref token (01000012) for 'SwrContext'; image may not run
+     1>UDP_Win_test.obj : warning LNK4248: unresolved typeref token (01000042) for 'SDL_Window'; image may not run
+     1>UDP_Win_test.obj : warning LNK4248: unresolved typeref token (01000043) for 'SDL_Texture'; image may not run
+     1>UDP_Win_test.obj : warning LNK4248: unresolved typeref token (01000044) for 'SDL_Renderer'; image may not run
+     1>UDP_Win_test.obj : warning LNK4248: unresolved typeref token (01000049) for 'SDL_cond'; image may not run
+     1>UDP_Win_test.obj : warning LNK4248: unresolved typeref token (0100004A) for 'SDL_mutex'; image may not run
+         UDP_Win_test.vcxproj -> D:\YNZZ_Info\PlayVideo\Code\UDP_Win_test\Debug\UDP_Win_test.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\YNZZ_Info\PlayVideo\Code\UDP_Win_test\Debug\UDP_Win_test.exe;#1" /manifest Debug\UDP_Win_test.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\UDP_Win_test.unsuccessfulbuild".
+         Touching "Debug\UDP_Win_test.lastbuildstate".
+     1>Done Building Project "D:\YNZZ_Info\PlayVideo\Code\UDP_Win_test\UDP_Win_test\UDP_Win_test.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.19
